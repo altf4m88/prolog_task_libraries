@@ -1,0 +1,5 @@
+created(1714879184.252352).
+assert(profil('13123','123123','12313',1231,'123','123@mail.com',programming)).
+assert(profil('1234',fadhil,lakilaki,123,'123','123@gmail.com',programming)).
+assert(profil('221321238123','Fadhill','Laki-laki',20,bogor,'test@mail.com',programming)).
+assert(profil('221321238123','Fadhill','Laki-laki',20,bogor,'test@mail.com',programming)).
